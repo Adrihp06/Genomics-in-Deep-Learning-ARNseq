@@ -2,8 +2,6 @@
 
 ## Tareas prioritarias
 
-13042023 Cuando se tengan los datos finales realizar experimentos para el modelo de clasificacion binaria.
-
 03042023 Revisar los notebooks y arreglarlos para la presentación.
 
 ## Tareas por hacer
@@ -17,6 +15,7 @@
 03042023 29042023 Redactar el documento.
 
 ## Tareas hechas
+13042023 19042023 25042023Cuando se tengan los datos finales realizar experimentos para el modelo de clasificacion binaria.
 
 13042023 13042023 19042023 Revisar de nuevo los datasets anteriores a ver si es posible realizar una combinacion.
 
